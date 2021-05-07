@@ -1,0 +1,13 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/">
+   <file>./IMG/1.png</file>
+   <file>./IMG/2.png</file>
+   <file>./IMG/3.png</file>
+   <file>./IMG/4.png</file>
+   <file>./IMG/5.png</file>
+   <file>./IMG/6.png</file>
+   <file>./IMG/7.png</file>
+</qresource>
+</RCC>
+
+
